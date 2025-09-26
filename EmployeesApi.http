@@ -1,0 +1,28 @@
+### List Employees
+GET http://localhost:5079/employees
+
+### Create Employee
+POST http://localhost:5079/employees
+Content-Type: application/json
+
+{
+    "name": "Aby",
+    "position": "Tester",
+    "salary": 50000
+}
+
+### Get Employee by ID
+GET http://localhost:5079/employees/2
+
+### Update Employee
+PUT http://localhost:5079/employees/2
+Content-Type: application/json
+
+{
+    "name": "Aby Leyva",
+    "position": "Senior Software Engineer",
+    "salary": 70000
+}
+
+### Delete Employee
+DELETE http://localhost:5079/employees/3

@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "bjDJSe7xkq87QzIqobPI/nPhKdbtF/aJFFiAboAP+KbQ8ntFM9eICQuO5jacTR0i21TokzNugKNzI42fTIotdQ==",
+  "dgSpecHash": "gmq7+LGb7fWZXeT3y/BWcA3ryK4ILTfLy4oeYpnCQA2HuwkR9qy+EqKK6vP8T0y1N7Tft7Nc13NAiMFcf1HqeA==",
   "success": true,
   "projectFilePath": "/home/abyleyva/projects/EmployeesApi/EmployeesApi.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/abyleyva/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/home/abyleyva/.nuget/packages/microsoft.openapi/1.6.22/microsoft.openapi.1.6.22.nupkg.sha512",
+    "/home/abyleyva/.nuget/packages/swashbuckle.aspnetcore/7.3.2/swashbuckle.aspnetcore.7.3.2.nupkg.sha512",
+    "/home/abyleyva/.nuget/packages/swashbuckle.aspnetcore.swagger/7.3.2/swashbuckle.aspnetcore.swagger.7.3.2.nupkg.sha512",
+    "/home/abyleyva/.nuget/packages/swashbuckle.aspnetcore.swaggergen/7.3.2/swashbuckle.aspnetcore.swaggergen.7.3.2.nupkg.sha512",
+    "/home/abyleyva/.nuget/packages/swashbuckle.aspnetcore.swaggerui/7.3.2/swashbuckle.aspnetcore.swaggerui.7.3.2.nupkg.sha512"
+  ],
   "logs": []
 }

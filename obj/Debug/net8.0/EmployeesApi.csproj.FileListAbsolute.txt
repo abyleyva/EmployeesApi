@@ -23,3 +23,11 @@
 /home/abyleyva/projects/EmployeesApi/obj/Debug/net8.0/EmployeesApi.pdb
 /home/abyleyva/projects/EmployeesApi/obj/Debug/net8.0/EmployeesApi.genruntimeconfig.cache
 /home/abyleyva/projects/EmployeesApi/obj/Debug/net8.0/ref/EmployeesApi.dll
+/home/abyleyva/projects/EmployeesApi/obj/Debug/net8.0/EmployeesApi.sourcelink.json
+/home/abyleyva/projects/EmployeesApi/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/home/abyleyva/projects/EmployeesApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/abyleyva/projects/EmployeesApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/abyleyva/projects/EmployeesApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/abyleyva/projects/EmployeesApi/obj/Debug/net8.0/EmployeesApi.csproj.AssemblyReference.cache
+/home/abyleyva/projects/EmployeesApi/obj/Debug/net8.0/EmployeesApi.MvcApplicationPartsAssemblyInfo.cs
+/home/abyleyva/projects/EmployeesApi/obj/Debug/net8.0/EmployeesApi.csproj.CopyComplete
